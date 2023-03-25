@@ -31,4 +31,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: enricay/node-js-sample :latest
+          tags: enricay/node-js-sample:latest
